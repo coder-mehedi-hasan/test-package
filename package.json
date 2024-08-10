@@ -1,0 +1,19 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "first test packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coder-mehedi-hasan/test-package.git"
+  },
+  "author": "Md Mehedi Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coder-mehedi-hasan/test-package/issues"
+  },
+  "homepage": "https://github.com/coder-mehedi-hasan/test-package#readme"
+}
